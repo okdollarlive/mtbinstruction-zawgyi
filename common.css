@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {font:1em 'Zawgyi-One', Arial, Helvetica, sans-serif; margin:0; padding:0 !important;}
+html {font-smoothing: antialiased; -webkit-font-smoothing: antialiased; -moz-font-smoothing:antialiased;}
+.clear {content:"."; display:block; clear:both;} 
+a{-webkit-transition:all .3s ease; -moz-transition:all .3s ease; -o-transition:all .3s ease; transition:all .3s ease; text-decoration:none; outline:none; color:#444444}
+img{max-width:100%; height:auto; outline:none;}
+h1, h2, h3, h4, h5, h6{color:#353535; font:normal Arial, Helvetica, sans-serif;}
+h1{ font-size:1.25em;}
+h2{ font-size:1.05em;}
+h3{font-size:1em; font-weight:normal; color:#222222;}
+h4{ font-size:1em;}
+h5{ font-size:.75em;}
+h6{ font-size:.625em;}
+.bstyle{margin:0; padding:0; width:100%;}
+.bstyle ul{margin:0 0 0 5px; padding:8px; list-style:none;}
+.bstyle ol li{color:#444444;}
+.bstyle ul li a{ text-decoration:underline;}
+.bstyle h3{ font-weight:bold; color:#222222; margin:0; padding:0;}
+.bstyle1{margin:0; padding:0; width:100%;}
+.bstyle1 ul{margin:0; padding:0; list-style:none; }
+.bstyle1 ol li{color:#444444; margin-bottom:0px;}
+.bstyle1 ul li{color:#444444; margin-bottom:0px;}
+.bstyle1 p{color:#444444; line-height:30px; padding:5px; text-align:left;}
+
+.phn-div{background:#e6e9ec; border:2px solid #34495e; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px; border-radius:8px; padding:8px;}
+.left-phone{margin:8px 15px 0; width:17%; float:left; clear:both;}
+.num-rgt{margin: 0; padding:0;}
+.bstyle p{color:#444444; line-height:30px; margin:8px; text-align:left;}
+.center-text{text-align:center; margin:center;}
+.center-img{text-align:center; margin:center;}
+.box-div{background:#e6e9ec; border:2px solid #34495e; -webkit-border-radius:8px; -moz-border-radius:8px; -khtml-border-radius:8px; border-radius:8px; padding:8px; }
+.box-div h1{font-size:1.8em; color:#fff; text-align:center;color:#34495e; font-weight:bold}
+.info_align{ padding-top:10px;}
+
+.bstyle2 p{color:#444444; line-height:30px; padding:5px;  text-align:left;}
+.bstyle3 p{color:#444444; line-height:30px; padding:5px; text-align:left;}
